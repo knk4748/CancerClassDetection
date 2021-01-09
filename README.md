@@ -24,12 +24,12 @@ Variables->
 
 
 ## My approach
-> Play with data to get insights
-> Built a Random model for reference of Log loss
-> Checking dependencies of each Column individually to Output Class
-> Built preprocessing function
-> Tryout various models for best LogLoss based results
-> Retain model with minimum LogLoss 
+> Play with data to get insights  
+> Built a Random model for reference of Log loss  
+> Checking dependencies of each Column individually to Output Class  
+> Built preprocessing function  
+> Tryout various models for best LogLoss based results  
+> Retain model with minimum LogLoss   
 
 # Concluding 
 Got best LogLoss results with LR model using oneHotencoded model with balanced weights.
